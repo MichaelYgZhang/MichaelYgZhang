@@ -6,4 +6,5 @@
 
 TODO
 - Idea 插件开发:https://juejin.cn/post/6844904127990857742
+  - 开发成IDEA插件：Java代码结合ASM分析一个项目的完整调用链路
 - chatGPT 使用场景搭建，了解能力 https://chat.openai.com/
